@@ -1,1 +1,2 @@
 roles/makkus.grav=https://github.com/makkus/makkus.grav.git
+roles/geerlingguy.php=https://github.com/makkus/ansible-role-php.git
